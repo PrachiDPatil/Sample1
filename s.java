@@ -1,1 +1,1 @@
-this is saple of create the new file
+this is sample of create the new file
